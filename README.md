@@ -49,16 +49,14 @@ I’m a results-driven developer who enjoys solving real-world problems through 
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhav1826&theme=blue_navy&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhav1826&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
-  
+<div align="center" style="background-color:#0b3d91; padding:20px; border-radius:12px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav1826&show_icons=true&theme=blue_navy&hide_border=true" height="150"/>
+
+  <img src="https://streak-stats.demolab.com?user=vaibhav1826&theme=blue_navy&hide_border=true" height="150"/>
+
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav1826&theme=github-dark&hide_border=true" alt="Activity Graph"/>
 </div>
